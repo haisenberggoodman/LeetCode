@@ -1,9 +1,6 @@
 package Two_Pointers;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.LinkedList;
-import java.util.List;
 
 public class Move_Zeroes_283 {
     public void moveZeroes(int[] nums) {

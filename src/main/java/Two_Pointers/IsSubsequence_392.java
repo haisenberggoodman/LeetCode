@@ -1,7 +1,5 @@
 package Two_Pointers;
 
-import java.util.Arrays;
-
 public class IsSubsequence_392 {
     public boolean isSubsequence(String s, String t) {
         int i = 0;
