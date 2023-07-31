@@ -1,6 +1,6 @@
 package Arrays_Strings;
 
-public class RomanInteger_13 {
+public class RomanToInteger_13 {
     public int romanToInt(String s) {
         int result = 0;
         for (int i = 0; i < s.length(); i++) {
